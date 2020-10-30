@@ -9,3 +9,4 @@ CL1 = all rows of XXX1.csv file  for which {strength = 0.4  and italic=0}
 CL2 = all rows of XXX2.csv file for which {strength = 0.4  and italic=0} 
 CL3 = all rows of XXX3.csv file for which {strength = 0.4  and italic=0} 
 
+# fontKNN
